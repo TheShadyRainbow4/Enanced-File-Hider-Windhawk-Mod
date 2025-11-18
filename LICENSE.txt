@@ -1,5 +1,5 @@
 The EliteSoftware Commitment to Open Source (MIT License)
-EliteSoftware HTML - HTTP Test Server
+Enhanced-File-Hider WindHawk Mod
 Copyright (c) 2025 Zachary Whiteman - EliteSoftware Co.
 
 This license is provided to ensure this project remains an open, collaborative, and perpetually free resource for the community. We believe in the power of shared knowledge and encourage everyone to use, learn from, and enhance this work.
